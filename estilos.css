@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+background-color: rgb(10, 3, 41);
+color: blanchedalmond;
+}
+
+footer {
+    background-color: #0e91b6;
+    width: 100%;
+    height: 20 px;
+}
+
+h1{
+    text-align: center;
+    color: #b5e6f3;
+    font-family: Lexend;
+    font-weight: 400; 
+    text-decoration: wavy underline;
+    
+}
+h2{
+    text-align: center;
+    color: #b5e6f3;
+    font-family: Lexend;
+    font-weight: 300;
+    text-decoration: wavy underline;
+    font-size: x-large;
+}
+
+img {
+width: 50%;
+margin: auto;
+display: block;
+border-radius: 100%;
+}
+
+h3{
+    color: #b5e6f3;
+    font-family: Lexend;
+    font-weight: 300;
+    font-size: large;
+}
+
+p{
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: small;
+}
+
+ul{
+    color: #b5e6f3;
+    font-family: Lexend;
+    font-weight: 300;
+    font-size: small;
+}
+
+a{
+    text-decoration: none;
+    color:#b5e6f3
+
+}
+
+a:hover{
+    color: #0e91b6;
+}
+
+
+
+.miMargen{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+
